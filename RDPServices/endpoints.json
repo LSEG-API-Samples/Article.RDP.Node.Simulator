@@ -1,0 +1,189 @@
+{
+  "services": [
+    {
+      "port": 14002,
+      "location": [
+        "ap-northeast-1a"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "ap-northeast-1a",
+        "ap-northeast-1b"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "ap-northeast-1b"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "ap-southeast-1a"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "ap-southeast-1a",
+        "ap-southeast-1b"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "ap-southeast-1b"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "eu-west-1a"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "eu-west-1a",
+        "eu-west-1b"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "eu-west-1b"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "us-east-1a"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "us-east-1a",
+        "us-east-1b"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "us-east-1a"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "us-east-2a"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "us-east-2a",
+        "us-east-2b"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    },
+    {
+      "port": 14002,
+      "location": [
+        "us-east-2b"
+      ],
+      "transport": "tcp",
+      "provider": "aws",
+      "endpoint": "www.test.com",
+      "dataFormat": [
+        "rwf"
+      ]
+    }
+  ]
+}
