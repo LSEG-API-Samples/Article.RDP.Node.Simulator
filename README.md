@@ -1,1 +1,1 @@
-# Article.RDP.Node.Simulator
+Please refer to this article: [Setup a Simulated Real-Time Optimized Environment in 3 Steps](https://developers.refinitiv.com/en/article-catalog/article/setup-a-simulated-real-time-optimized-environment-in-3-steps)
