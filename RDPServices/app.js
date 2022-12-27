@@ -64,7 +64,7 @@ https.createServer(
     )
     .listen(listen_port, () => {
        
-        console.log(timestamp() + "serever is runing at port " + listen_port);
+        console.log(timestamp() + "server is runing at port " + listen_port);
     });
 
 // Create an try point route for the Express app listening on port 443.
